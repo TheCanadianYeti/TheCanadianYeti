@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Marcus Podnar and I'm a Learning Developer, from Canada</h2>
+<h2 align="center">Hi 👋! My name is Marcus Podnar and I'm a Developer in College, from Canada</h2>
 
 ###
 
