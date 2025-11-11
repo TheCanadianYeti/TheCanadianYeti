@@ -1,22 +1,60 @@
-<h2 align="center">Hi 👋! My name is Marcus Podnar and I'm a Developer in College, from Canada</h2>
+# TheCanadianYeti
 
-###
+Hey, I’m a college student studying **Network Engineering** with an interest in **software development**, **systems**, and **automation**.  
+This page is where I post what I’m learning and what I build along the way.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCanadianYeti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+---
 
-</div>
+### About Me
+- 🎓 Network Engineering student  
+- 🧠 Learning programming, networking, and system design  
+- 🧰 Building small tools, game prototypes, and automation scripts  
+- 🧩 Interested in both network infrastructure and creative coding  
+- ☕ Usually running on caffeine and curiosity
 
-<div align="center">
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-##
+### Skills & Tools
+**Languages:** Python, JavaScript, HTML, CSS, C#, Bash  
+**Frameworks / Tools:** Node.js, React, Unity, Flask, Git, VS Code, Linux  
+**Networking:** Cisco Packet Tracer, Wireshark, pfSense, VLANs, subnetting  
+**Currently Learning:** Network automation, scripting for infrastructure, and Rust  
+
+---
+
+### Current Work
+- 🕹️ Small 16-bit RPG project (top-down, pixel-style)  
+- 🔥 Roguelite game concept — escaping the seven circles of Hell  
+- 📗 Personal code reference guide for functions and commands  
+- 🌐 Networking lab configurations and automation experiments  
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+    height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="165" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=TheCanadianYeti&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="165" />
+</p>
+
+---
+
+### Contact
+📧 [podnar.dev@gmail.com](mailto:podnar.dev@gmail.com)
+
+---
+
+> I build, break, and rebuild things until they make sense.
