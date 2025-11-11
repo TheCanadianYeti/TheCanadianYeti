@@ -15,10 +15,10 @@ This page is where I post what I’m learning and what I build along the way.
 ---
 
 ### Skills & Tools
-**Languages:** Python, JavaScript, HTML, CSS, C#, Bash  
-**Frameworks / Tools:** Node.js, React, Unity, Flask, Git, VS Code, Linux  
-**Networking:** Cisco Packet Tracer, Wireshark, pfSense, VLANs, subnetting  
-**Currently Learning:** Network automation, scripting for infrastructure, and Rust  
+**Languages:** Python, JavaScript, HTML, CSS, Java, GML, Bash  
+**Frameworks / Tools:** Git, VS Code, Linux, GameMaker
+**Networking:** Cisco Packet Tracer, VLANs, subnetting  
+**Currently Learning:** Network automation, scripting for infrastructure  
 
 ---
 
