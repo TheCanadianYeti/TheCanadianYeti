@@ -15,8 +15,8 @@ This page is where I post what I’m learning and what I build along the way.
 ---
 
 ### Skills & Tools
-**Languages:** Python, JavaScript, HTML, CSS, Java, GML, Bash
-**Frameworks / Tools:** Git, VS Code, Linux, GameMaker
+**Languages:** Python, JavaScript, HTML, CSS, Java, GML, Bash, SQL
+**Frameworks / Tools:** Git, VS Code, Linux, GameMaker, MSSQL
 **Networking:** Cisco Packet Tracer, VLANs, subnetting  
 **Currently Learning:** Network automation, scripting for infrastructure  
 
