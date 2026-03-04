@@ -133,20 +133,23 @@ Tools:  Packet Tracer, Bash, Python
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=1800&rank_icon=github"
     alt="GitHub Stats"
-    height="170" />
+    height="170"
+    onerror="this.style.display='none'" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&cache_seconds=1800&langs_count=8"
     alt="Top Languages"
-    height="170" />
+    height="170"
+    onerror="this.style.display='none'" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheCanadianYeti&theme=tokyonight"
-    alt="Contribution Graph"
-    width="720" />
+    src="https://github-contributor-stats.vercel.app/api?username=TheCanadianYeti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"
+    alt="Contributor Stats"
+    height="170"
+    onerror="this.style.display='none'" />
 </p>
 
 ---
@@ -165,12 +168,12 @@ Tools:  Packet Tracer, Bash, Python
 
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════╗
 ║  I build, break, and rebuild things until they make      ║
 ║  sense. Then I automate it so I never have to again.     ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheCanadianYeti.TheCanadianYeti&left_color=0d1117&right_color=00ff9c&left_text=visitors)
 
