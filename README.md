@@ -82,24 +82,24 @@ Tools ────────────────────────�
 <tr>
 <td width="48%" valign="top">
 
-### 🕹️ 16-bit RPG
+### 🌐 Personal Portfolio
 ```
-Status: [ IN PROGRESS ]
-Engine: GameMaker
-Style:  Top-down pixel art
+Status: [ LIVE ]
+Stack:  HTML · CSS · JavaScript
+URL:    marcus.podnar.ca
 ```
-> A handcrafted RPG with retro aesthetics — tile maps, custom sprites, and turn-based combat under development.
+> Personal portfolio site built from scratch — no frameworks. Features a GitHub API-driven projects page, typewriter effect, and responsive design.
 
 </td>
 <td width="48%" valign="top">
 
-### 🔥 Roguelite — Circles of Hell
+### 🍷 WineWeb
 ```
-Status: [ CONCEPT → BUILD ]
-Engine: GameMaker
-Genre:  Roguelite / Dungeon Crawler
+Status: [ LIVE ]
+Stack:  HTML · CSS · JavaScript
+URL:    wine.podnar.ca
 ```
-> Escape through seven procedurally-influenced layers of Hell. Each circle = new mechanics, new misery.
+> A wine catalogue app backed by Google Sheets and Google Forms. Features live CSV parsing, advanced filters, dark mode, and CSV export.
 
 </td>
 </tr>
