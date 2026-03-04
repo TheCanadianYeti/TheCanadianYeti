@@ -131,23 +131,16 @@ Tools:  Packet Tracer, Bash, Python
 
 ## `> github --stats`
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff9c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9c)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff9c)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff9c)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff9c)
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9c)
-![GameMaker](https://img.shields.io/badge/GameMaker-0d1117?style=for-the-badge&logo=gamemaker&logoColor=00ff9c)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=00ff9c)
-
-</div>
+<p align="center">
+  <img
+    src="https://vercel-stats-git-main-thecanadianyetis-projects.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="170" />
+  <img
+    src="https://vercel-stats-git-main-thecanadianyetis-projects.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
+    alt="Top Languages"
+    height="170" />
+</p>
 
 ---
 
