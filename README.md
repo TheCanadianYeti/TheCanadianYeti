@@ -133,20 +133,20 @@ Tools:  Packet Tracer, Bash, Python
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
     alt="GitHub Stats"
     height="170" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
     alt="Top Languages"
     height="170" />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=TheCanadianYeti&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=ff6b6b&currStreakLabel=00ff9c"
-    alt="GitHub Streak"
-    height="170" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheCanadianYeti&theme=tokyonight"
+    alt="Contribution Graph"
+    width="720" />
 </p>
 
 ---
@@ -157,6 +157,7 @@ Tools:  Packet Tracer, Bash, Python
 
 [![Email](https://img.shields.io/badge/podnar.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117)](mailto:podnar.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/TheCanadianYeti-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117)](https://github.com/TheCanadianYeti)
+[![Portfolio](https://img.shields.io/badge/marcus.podnar.ca-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117)](https://marcus.podnar.ca)
 
 </div>
 
