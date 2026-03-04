@@ -133,11 +133,11 @@ Tools:  Packet Tracer, Bash, Python
 
 <p align="center">
   <img
-    src="https://vercel-stats-git-main-thecanadianyetis-projects.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
+    src="https://vercel-stats-git-main-thecanadianyetis-projects.vercel.app/api?username=TheCanadianYeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=1800&v=1"
     alt="GitHub Stats"
     height="170" />
   <img
-    src="https://vercel-stats-git-main-thecanadianyetis-projects.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&cache_seconds=1800"
+    src="https://vercel-stats-git-main-thecanadianyetis-projects.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&cache_seconds=1800&v=1"
     alt="Top Languages"
     height="170" />
 </p>
