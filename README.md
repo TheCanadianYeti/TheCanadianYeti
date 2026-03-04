@@ -149,7 +149,7 @@ Tools:  Packet Tracer, Bash, Python
 <div align="center">
 
 [![Email](https://img.shields.io/badge/podnar.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117)](mailto:podnar.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=xing&logoColor=00ff9c&labelColor=0d1117)](https://www.linkedin.com/in/marcus-podnar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=briefcase&logoColor=00ff9c&labelColor=0d1117)](https://www.linkedin.com/in/marcus-podnar/)
 [![Portfolio](https://img.shields.io/badge/marcus.podnar.ca-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117)](https://marcus.podnar.ca)
 
 </div>
