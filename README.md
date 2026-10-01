@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Dev+%26+Network+Engineering;Building+tools+%7C+Breaking+things+%7C+Learning+always;Java+%7C+Python+%7C+Bash+%7C+JS+%7C+TS+%7C+SQL;Automating+infrastructure+%2C+one+script+at+a+time" alt="Typing SVG" />
 </p>
----
+
 
 <table>
 <tr>
