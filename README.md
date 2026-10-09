@@ -76,7 +76,7 @@ Tools ────────────────────────�
 <tr>
 <td width="48%" valign="top">
 
-### Rubix
+### <a href="https://github.com/TheCanadianYeti/Rubix">Rubix<a/>
 ```
 Status: [ LIVE ]
 Stack:  Java
@@ -87,20 +87,20 @@ Repo:   TheCanadianYeti/Rubix
 </td>
 <td width="48%" valign="top">
 
-### Souschef
+### <a href="https://github.com/TheCanadianYeti/Souschef">Souschef</a>
 ```
-Status: [ LIVE ]
+Status: [ STATIC PREVIEW ]
 Stack:  Next.js · Gemma API · ElevenLabs
 Repo:   TheCanadianYeti/Souschef
 ```
-> AI recipe assistant platform that captures, parses, and guides you through cooking via voice navigation. Built with Next.js, React, PostgreSQL backend, and deployed on Vercel.
+> AI recipe assistant platform that captures, parses, and guides you through cooking via voice navigation. Built with Next.js, React, PostgreSQL backend, and deployed on Vercel. Still active for UI preview. API integrations are inactive. 
 
 </td>
 </tr>
 <tr>
 <td width="48%" valign="top">
 
-### heicToJpg
+### <a href="https://github.com/TheCanadianYeti/heicToJpg">heicToJpg</a>
 ```
 Status: [ LIVE ]
 Stack:  Python
@@ -111,7 +111,7 @@ Repo:   TheCanadianYeti/heicToJpg
 </td>
 <td width="48%" valign="top">
 
-### PasswordMkr
+### <a href="https://github.com/TheCanadianYeti/PasswordMkr">PasswordMkr</a>
 ```
 Status: [ LIVE ]
 Stack:  Python
@@ -124,7 +124,7 @@ Repo:   TheCanadianYeti/PasswordMkr
 <tr>
 <td width="48%" valign="top">
 
-### WineWeb
+### <a href="https://github.com/TheCanadianYeti/WineWeb">WineWeb<a/>
 ```
 Status: [ LIVE ]
 Stack:  HTML · CSS · JavaScript
@@ -135,7 +135,7 @@ URL:    wine.podnar.ca
 </td>
 <td width="48%" valign="top">
 
-### PortfolioPage
+### <a href="https://github.com/TheCanadianYeti/PortfolioPage">PortfolioPage<a/>
 ```
 Status: [ LIVE ]
 Stack:  HTML · CSS · JavaScript
