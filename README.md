@@ -6,179 +6,75 @@
                              STATUS: [ OPERATIONAL ]                            
 ================================================================================
 </pre>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=620&lines=Software+Development+%26+Network+Engineering;Building+tools+%7C+Automating+infrastructure;Java+%7C+Python+%7C+TypeScript+%7C+Bash+%7C+SQL;Systems+%7C+Networking+%7C+Full+Stack" alt="Terminal Line" />
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Dev+%26+Network+Engineering;Building+tools+%7C+Breaking+things+%7C+Learning+always;Java+%7C+Python+%7C+Bash+%7C+JS+%7C+TS+%7C+SQL;Automating+infrastructure+%2C+one+script+at+a+time" alt="Typing SVG" />
-</p>
-
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## `> whoami`
+### > whoami
 
 ```yaml
-name:     TheCanadianYeti
-role:     Software Development and Network Engineering Student
+user:       TheCanadianYeti
+name:       Marcus Podnar
+program:    Software Development and Network Engineering
 focus:
-  - Software Development
-  - Systems & Infrastructure
-  - Network Automation
-status:   [ online ]
-fuel:     Caffeine + Curiosity
-```
-
-</td>
-<td width="50%" valign="top">
-
-## `> ls -la ./skills`
-
-```
-Languages ──────────────────────────
-  Java          [ 4+ Years ]
-  Python        [ 5+ Years ]
-  JavaScript    [ 1+ Years ]
-  TypeScript    [ 1+ Years ]
-  SQL           [ 1+ Years ]
-  Bash          [ 5+ Years ]
-  HTML/CSS      [ 1+ Years ]
-
-Tooling ────────────────────────────
-  Git · Linux · Docker · Proxmox VE
-  VS Code · Packet Tracer · TrueNAS
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `> cat ./networking.conf`
-
-```
-Protocols & Concepts ──────────────────────────────────────────
-  ✦ VLANs          ✦ Subnetting         ✦ IP Addressing
-  ✦ Routing basics ✦ Network automation ✦ Infrastructure scripting
-
-Tools ─────────────────────────────────────────────────────────
-  ✦ Cisco Packet Tracer     ✦ GNS3 (learning)
-  ✦ Network config scripts  ✦ Lab automation experiments
+  - Systems Architecture & Infrastructure
+  - Network Automation & Scripting
+  - Full-Stack Tool Development
+environment:
+  - Self-hosted Homelab (Proxmox VE, TrueNAS, Debian)
+  - Containerization & Reverse Proxies
+status:     Available for Co-op / Internship
 ```
 
 ---
 
-## `> cat ./current_projects`
+### > ls ./stack
 
-<table>
-<tr>
-<td width="48%" valign="top">
-
-### <a href="https://github.com/TheCanadianYeti/Rubix">Rubix<a/>
-```
-Status: [ LIVE ]
-Stack:  Java
-Repo:   TheCanadianYeti/Rubix
-```
-> Automated cipher detector and multi-layer decryptor. Identifies and breaks classic ciphers, binary encodings, and nested payloads using Chi-Square analysis and Index of Coincidence.
-
-</td>
-<td width="48%" valign="top">
-
-### <a href="https://github.com/TheCanadianYeti/Souschef">Souschef</a>
-```
-Status: [ STATIC PREVIEW ]
-Stack:  Next.js · Gemma API · ElevenLabs
-Repo:   TheCanadianYeti/Souschef
-```
-> AI recipe assistant platform that captures, parses, and guides you through cooking via voice navigation. Built with Next.js, React, PostgreSQL backend, and deployed on Vercel. Still active for UI preview. API integrations are inactive. 
-
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
-
-### <a href="https://github.com/TheCanadianYeti/heicToJpg">heicToJpg</a>
-```
-Status: [ LIVE ]
-Stack:  Python
-Repo:   TheCanadianYeti/heicToJpg
-```
-> Lightweight, 100% offline desktop HEIC-to-JPG converter. Zero network requests, zero uploads, and no admin rights required. Photos and EXIF data never leave your device.
-
-</td>
-<td width="48%" valign="top">
-
-### <a href="https://github.com/TheCanadianYeti/PasswordMkr">PasswordMkr</a>
-```
-Status: [ LIVE ]
-Stack:  Python
-Repo:   TheCanadianYeti/PasswordMkr
-```
-> Personal offline credential generator utility engineered to produce high-entropy passwords locally without network exposure or bloat.
-
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
-
-### <a href="https://github.com/TheCanadianYeti/WineWeb">WineWeb<a/>
-```
-Status: [ LIVE ]
-Stack:  HTML · CSS · JavaScript
-URL:    wine.podnar.ca
-```
-> A wine catalogue web app. Features live data parsing, advanced filters, dark mode, and straightforward inventory management.
-
-</td>
-<td width="48%" valign="top">
-
-### <a href="https://github.com/TheCanadianYeti/PortfolioPage">PortfolioPage<a/>
-```
-Status: [ LIVE ]
-Stack:  HTML · CSS · JavaScript
-URL:    marcus.podnar.ca
-```
-> Personal portfolio site built from scratch without external frameworks. Features a dynamic GitHub API-driven projects showcase, terminal typewriter effects, and responsive design.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> github --stats`
-<p align="center">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=TheCanadianYeti&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://marcus.podnar.ca"><img align="center" src="Images/logo-final.png" alt="Logo" height="70" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheCanadianYeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&hide=tex" alt="Top Languages" height="170" />
+**Core Languages**  
+<p>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff9c&labelColor=0d1117" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9c&labelColor=0d1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9c&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c&labelColor=0d1117" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9c&labelColor=0d1117" alt="SQL" />
 </p>
 
-## `> ping ./contact`
+**Frameworks & Full-Stack**  
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=00ff9c&labelColor=0d1117" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff9c&labelColor=0d1117" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9c&labelColor=0d1117" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff9c&labelColor=0d1117" alt="React" />
+</p>
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/podnar.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117)](mailto:podnar.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=polywork&logoColor=00ff9c&labelColor=0d1117)](https://www.linkedin.com/in/marcus-podnar/)
-[![Portfolio](https://img.shields.io/badge/marcus.podnar.ca-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117)](https://marcus.podnar.ca)
-
-</div>
+**Systems, Homelab & Infrastructure**  
+<p>
+  <img src="https://img.shields.io/badge/Linux_Debian-0d1117?style=for-the-badge&logo=debian&logoColor=00ff9c&labelColor=0d1117" alt="Debian" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c&labelColor=0d1117" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-0d1117?style=for-the-badge&logo=proxmox&logoColor=00ff9c&labelColor=0d1117" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/TrueNAS-0d1117?style=for-the-badge&logo=truenas&logoColor=00ff9c&labelColor=0d1117" alt="TrueNAS" />
+  <img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00ff9c&labelColor=0d1117" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c&labelColor=0d1117" alt="Git" />
+</p>
 
 ---
 
+### > ping ./contact
+
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════════════╗
-║  I build, break, and rebuild things until they make      ║
-║  sense. Then I automate it so I never have to again.     ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
+<a href="mailto:podnar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-podnar.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/marcus-podnar/"><img src="https://img.shields.io/badge/LinkedIn-Marcus_Podnar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://marcus.podnar.ca"><img src="https://img.shields.io/badge/Portfolio-marcus.podnar.ca-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117" alt="Portfolio" /></a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheCanadianYeti.TheCanadianYeti&left_color=0d1117&right_color=00ff9c&left_text=visitors)
+<br/><br/>
+
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║  Explore selected builds and architecture repositories below.        ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
 
 </div>
