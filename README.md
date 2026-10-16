@@ -24,7 +24,7 @@ focus:
 environment:
   - Self-hosted Homelab (Proxmox VE, TrueNAS, Debian)
   - Containerization & Reverse Proxies
-status:      Available for Co-op / Internship</font>
+status:        Open to Software & Infrastructure Engineering Opportunities</font>
 </pre>
 
 ---
@@ -53,6 +53,8 @@ status:      Available for Co-op / Internship</font>
 <p>
   <img src="https://img.shields.io/badge/Linux_Debian-0d1117?style=for-the-badge&logo=debian&logoColor=00ff9c&labelColor=0d1117" alt="Debian" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c&labelColor=0d1117" alt="Docker" />
+  <img src="https://img.shields.io/badge/APACHE-0D1117?style=for-the-badge&logo=apache&logoColor=00FF9D&labelColor=0D1117" alt="Apache" />
+  <img src="https://img.shields.io/badge/CADDY-0D1117?style=for-the-badge&logo=caddy&logoColor=00FF9D&labelColor=0D1117" alt="Caddy" />
   <img src="https://img.shields.io/badge/Proxmox_VE-0d1117?style=for-the-badge&logo=proxmox&logoColor=00ff9c&labelColor=0d1117" alt="Proxmox" />
   <img src="https://img.shields.io/badge/TrueNAS-0d1117?style=for-the-badge&logo=truenas&logoColor=00ff9c&labelColor=0d1117" alt="TrueNAS" />
   <img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00ff9c&labelColor=0d1117" alt="Nginx" />
