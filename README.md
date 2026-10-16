@@ -13,10 +13,10 @@
 
 ### > whoami
 
-```yaml
-user:       TheCanadianYeti
-name:       Marcus Podnar
-program:    Software Development and Network Engineering
+<pre>
+<font color="#00FF9C">user:        TheCanadianYeti
+name:        Marcus Podnar
+program:     Software Development and Network Engineering
 focus:
   - Systems Architecture & Infrastructure
   - Network Automation & Scripting
@@ -24,8 +24,8 @@ focus:
 environment:
   - Self-hosted Homelab (Proxmox VE, TrueNAS, Debian)
   - Containerization & Reverse Proxies
-status:     Available for Co-op / Internship
-```
+status:      Available for Co-op / Internship</font>
+</pre>
 
 ---
 
@@ -65,9 +65,11 @@ status:     Available for Co-op / Internship
 
 <div align="center">
 
-<a href="mailto:podnar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-podnar.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/marcus-podnar/"><img src="https://img.shields.io/badge/LinkedIn-Marcus_Podnar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="https://marcus.podnar.ca"><img src="https://img.shields.io/badge/Portfolio-marcus.podnar.ca-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="mailto:podnar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/marcus-podnar/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://marcus.podnar.ca"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c" alt="Portfolio" /></a>
 
 <br/><br/>
 
