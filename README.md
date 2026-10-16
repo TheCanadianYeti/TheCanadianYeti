@@ -16,7 +16,7 @@
 <pre>
 <font color="#00FF9C">user:        TheCanadianYeti
 name:        Marcus Podnar
-program:     Software Development and Network Engineering
+discipline: Software Development & Systems Engineering
 focus:
   - Systems Architecture & Infrastructure
   - Network Automation & Scripting
