@@ -76,7 +76,9 @@ status:        Incoming TPM Intern @ Scotiabank (Winter 2027)</font>
 <br/><br/>
 
 <p align="center">
+  <a href="https://marcus.podnar.ca">
   <img src="Images/BlankLogo.png" alt="My Logo" width="250">
+  <a/>
 </p>
 
 
