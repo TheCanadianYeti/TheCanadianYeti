@@ -24,7 +24,7 @@ focus:
 environment:
   - Self-hosted Homelab (Proxmox VE, TrueNAS, Debian)
   - Containerization & Reverse Proxies
-status:        Open to Software & Infrastructure Engineering Opportunities</font>
+status:        Incoming TPM Intern @ Scotiabank (Winter 2027)</font>
 </pre>
 
 ---
