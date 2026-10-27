@@ -75,6 +75,11 @@ status:        Incoming TPM Intern @ Scotiabank (Winter 2027)</font>
 
 <br/><br/>
 
+<p align="center">
+  <img src="Images/BlankLogo.png" alt="My Logo" width="250">
+</p>
+
+
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  Explore selected builds and architecture repositories below.        ║
